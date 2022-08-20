@@ -36,7 +36,7 @@ h3{
 - 場所：千葉県柏市柏の葉5-1-5　東京大学空間情報科学研究センター
 - 対象：中学生・高校生 ※実習は受講生を3~4グループに分けて、順番に行います。
 - 講師：[小口 高](http://oguchaylab.csis.u-tokyo.ac.jp/members.html)（東京大・教授）、[飯塚浩太郎](https://kiizuka.wixsite.com/website/)（東京大・助教）、[矢澤 優理子](https://yurikoyazawa.wixsite.com/yazawayuriko)（東京大・特任助教）、[小倉拓郎](https://www.geoguraphy.com/)（筑波大・助教/東京大・客員研究員）、宋佳麗、[山内啓之](https://researchmap.jp/hyamauchi/)（東大・院生）ほか
-- 内容：地理情報システム（GIS），ドローン，3Dプリンター、VRの利活用・体験[ ※概要はこちらです。](https://www.jsps.go.jp/hirameki/22ht0000/22ht0043.pdf) <br>このほかに、昼休憩時にはランチタイムトークとして、参加自由のショートレクチャーを予定しています。
+- 内容：地理情報システム（GIS），ドローン，3Dプリンター、VRの利活用・体験[ ※概要はこちらです。](https://www.jsps.go.jp/hirameki/22ht0000/22ht0043.pdf) <br>このほかに、昼休憩時にはランチタイムトークとして、参加自由のショートレクチャー「GISの活用と応用 －GISをつかって身近な地域を見てみよう―」を予定しています。
 
 
 ## <a name="2"></a>持ち物、服装
